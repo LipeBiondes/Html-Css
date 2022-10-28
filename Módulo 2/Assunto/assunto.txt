@@ -1,0 +1,29 @@
+Harmonia de Cores
+Círculo cromático
+
+Cores Primárias
+
+-Amarelo
+-Vermelho
+-Azul
+
+Cores Secundárias
+
+-Laranja
+-Violeta
+-Verde
+
+Cores Terciárias
+
+-Amarelo-Alaranjado
+-Vermelho-Alaranjado
+-Vermelho-Arroxeado
+-Azul-Arroxeado
+-Azul-Esverdeado
+-Amarelo-Esverdeado
+
+Temperaturas de Cores
+
+Cores frias e Quentes
+
+Paleta de cores de 3 a 5 cores

@@ -1,0 +1,16 @@
+body{
+  background-color: lightblue;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+h1{
+  color: darkgoldenrod;
+  background-color: rgb(41, 8, 8);
+}
+h2{
+  color: darkred;
+}
+p{
+  text-align: justify;
+  font-size: 14px;
+}

@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(225, 250, 225);
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  color: #41B54D;
+}
+h2{
+  color: #4FDB5D
+}
+#principal{
+  background-color: #133617;
+  color: #57F566;
+  text-align: center;
+}
+.basico{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #00920f;
+}
+.intermediario{
+  font: bolder 20px unbuntu;
+  color: #005d92;
+}
+.avancado{
+  font: normal 22px times;
+  color: #0a0092;
+}
+.destaque{
+  background-color: rgb(173, 154, 100);
+}
